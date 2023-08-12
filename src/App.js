@@ -34,4 +34,4 @@ function App() {
 }
 
 export default App;
-/* sd,föfsöld*/
+/* sd,f*/
